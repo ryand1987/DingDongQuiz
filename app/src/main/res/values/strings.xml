@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">DingDong Quiz</string>
+
+    <string name="question1">1. Is Batman the best none powered super hero?</string>
+    <string name="question1_choice1">Yes</string>
+    <string name="question1_choice2">No</string>
+    <string name="question1_choice3">Who knew you could question his awesomeness</string>
+
+    <string name="question2">2. Is Superman a mummy\'s boy?</string>
+
+    <string name="question3">3. What is the name of Batman\'s car and who sucks?</string>
+    <string name="question3_choice1">Batmobile</string>
+    <string name="question3_choice2">Super awesome car</string>
+    <string name="question3_choice3">Ironman</string>
+    <string name="question3_choice4">cant touch this</string>
+
+    <string name="question4">4. Is Ryan a cool guy?</string>
+
+    <string name="question5">5 Why is Friday so close to Monday but Monday so far from Friday?</string>
+    <string name="question5_choice1">ummmmm</string>
+    <string name="question5_choice2">what the H</string>
+    <string name="question5_choice3">hmmmm</string>
+
+    <string name="question6">6. What is Batman\'s dog\'s name?</string>
+
+    <string name="question7">7. Is Google awesome?</string>
+    <string name="question7_choice1">Oh Yeah!</string>
+    <string name="question7_choice2">Hell Yes!</string>
+    <string name="question7_choice3">Didnt know it wasnt</string>
+
+    <string name="question8">8. Why shouldnt a question be answered with a questions?</string>
+
+    <string name="question9">9. Are these questions wierd or fun?</string>
+    <string name="question9_choice1">Both</string>
+    <string name="question9_choice2">Fun</string>
+
+    <string name="question10">10. Do you want to work for Google?</string>
+
+    <string name="submit_answers">Submit Answers</string>
+    <string name="question7_choice4">Who wouldnt think so?</string>
+
+
+</resources>
